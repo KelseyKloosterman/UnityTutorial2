@@ -5,6 +5,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Console.WriteLine("Branch 2!");
         Console.WriteLine("Branch 1!");
     }
 
